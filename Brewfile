@@ -14,3 +14,7 @@ brew "unrar"
 brew "watch"
 brew "wget"
 
+tap "caskroom/cask"
+tap "caskroom/homebrew-versions"
+brew "brew-cask"
+

@@ -19,6 +19,7 @@ brew "tree"
 brew "unrar"
 brew "watch"
 brew "wget"
+brew "fdupes"
 
 cask "adobe-reader"
 cask "atom"

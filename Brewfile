@@ -20,6 +20,7 @@ brew "unrar"
 brew "watch"
 brew "wget"
 brew "fdupes"
+brew "go"
 
 cask "adobe-reader"
 cask "atom"
@@ -43,4 +44,4 @@ cask "utorrent"
 cask "vlc"
 cask "wineskin-winery"
 cask "wireshark"
-
+cask "liteide"

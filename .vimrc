@@ -1,5 +1,3 @@
-execute pathogen#infect()
-
 " copied from https://amix.dk/vim/vimrc.html
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""

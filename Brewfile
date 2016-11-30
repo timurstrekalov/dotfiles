@@ -1,7 +1,6 @@
 tap "caskroom/cask"
 tap "caskroom/homebrew-versions"
 
-brew "brew-cask"
 brew "cloc"
 brew "git"
 brew "gradle"

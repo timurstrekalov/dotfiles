@@ -11,8 +11,7 @@ source $ZSH/oh-my-zsh.sh
 # paths and homes
 export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
 export GROOVY_HOME=/usr/local/opt/groovy/libexec
-export GOPATH=~
-export PATH=$PATH:node_modules:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/sbin:/opt/X11/bin:${GOPATH}/bin
+export PATH=$PATH:node_modules:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/sbin:/opt/X11/bin:$HOME/go/bin
 
 # aliases
 alias mi='mvn clean install'

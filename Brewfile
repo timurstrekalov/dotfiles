@@ -21,6 +21,7 @@ brew "wget"
 brew "fdupes"
 brew "go"
 brew "hg"
+brew "dep"
 
 cask "adobe-acrobat-reader"
 cask "atom"

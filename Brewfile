@@ -22,6 +22,7 @@ brew "fdupes"
 brew "go"
 brew "hg"
 brew "dep"
+brew "vim"
 
 cask "adobe-acrobat-reader"
 cask "atom"

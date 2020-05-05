@@ -23,6 +23,7 @@ brew "go"
 brew "hg"
 brew "dep"
 brew "vim"
+brew "jq"
 
 cask "adobe-acrobat-reader"
 cask "atom"

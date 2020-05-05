@@ -9,7 +9,7 @@ plugins=(git gradle mvn brew npm bower vagrant atom osx cp golang)
 source $ZSH/oh-my-zsh.sh
 
 # paths and homes
-export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
+export JAVA_HOME=$(/usr/libexec/java_home -v 12)
 export GROOVY_HOME=/usr/local/opt/groovy/libexec
 export GOROOT=/usr/local/opt/go/libexec
 export GOPATH=$HOME/go

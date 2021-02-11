@@ -4,7 +4,7 @@ ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="juanghurtado"
 DISABLE_CORRECTION="true"
 
-plugins=(git gradle mvn brew npm bower vagrant atom osx cp golang)
+plugins=(git gradle mvn brew npm osx cp golang)
 
 source $ZSH/oh-my-zsh.sh
 
